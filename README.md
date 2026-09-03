@@ -1,15 +1,15 @@
-## Hi there 👋
+## About Me 👋
 My name is **Andrii** and I'm an IT expert engineer in a big European company (🇳🇴).
 ### 🔭 I’m currently working on:
-- software deploynment
-- system configuration (MS)
-- domain configuration (MS)
-- powershell automation
+- Software deploynment
+- System configuration (MS)
+- Domain configuration (MS)
+- PowerShell automation
 - Azure VMs
 ### 🌱 I’m intersted in:
-- AI
-- python
+- Python
 - Linux
+- AI
 <!--
 **damvyn/damvyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
