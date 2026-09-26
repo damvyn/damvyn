@@ -42,7 +42,7 @@ I focus on **Windows infrastructure**, **VMware VDI environments** and **automat
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=windows,powershell,azure,linux,bash,python,githubactions,git,github,vscode&perline=10" alt="Tech icons" />
 </p>
 
