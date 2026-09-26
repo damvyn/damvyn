@@ -49,7 +49,7 @@ I focus on **Windows infrastructure**, **VMware VDI environments** and **automat
 ### 🪟 Windows & Microsoft Ecosystem
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-Advanced-0078D6?style=for-the-badge)
 ![Windows Client](https://img.shields.io/badge/Windows%2010%2F11-Advanced-0078D6?style=for-the-badge)
-![Active Directory](https://img.shields.io/badge/Group%20Policy-Daily%20use-0078D6?style=for-the-badge)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-Daily%20use-0078D6?style=for-the-badge)
 ![Group Policy](https://img.shields.io/badge/Group%20Policy-Daily%20use-0078D6?style=for-the-badge)
 ![Entra ID](https://img.shields.io/badge/Entra%20ID-Familiar-5E9ED6?style=for-the-badge)
 ![SCCM](https://img.shields.io/badge/SCCM%20%2F%20MECM-Familiar-5E9ED6?style=for-the-badge)
