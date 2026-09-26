@@ -43,7 +43,7 @@ I focus on **Windows infrastructure**, **VMware VDI environments** and **automat
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,powershell,azure,linux,bash,python,githubactions,git,github,vscode&perline=10" alt="Tech icons" />
+  <img src="https://skillicons.dev/icons?i=windows,powershell,azure,linux,bash,python,githubactions,git,github,vscode,bots,md,arch,mint,ubuntu,obsidian,regex,robloxstudio,&perline=10" alt="Tech icons" />
 </p>
 
 ### 🪟 Windows & Microsoft Ecosystem
